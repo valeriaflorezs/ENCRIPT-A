@@ -52,7 +52,3 @@ La documentación del proyecto está disponible en formato PDF:
 
 * Katherin Barrera
 * **Valeria Florez**
-
----
-
-### ¿Estás lista para subir el código fuente de Java con esta estructura?
