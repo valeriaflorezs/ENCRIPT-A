@@ -31,7 +31,7 @@ El sistema maneja dos flujos de trabajo principales:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/ENCRIPT-A.git](https://github.com/tu-usuario/ENCRIPT-A.git)
+    git clone [https://github.com/valeriaflorezs/ENCRIPT-A.git](https://github.com/tu-usuario/ENCRIPT-A.git)
     ```
 2.  **Ejecutar el JAR (Recomendado):** Navega a la carpeta donde se encuentra el archivo JAR (usualmente `/dist/` o `/bin/`) y ejecuta:
     ```bash
